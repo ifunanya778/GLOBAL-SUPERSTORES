@@ -48,7 +48,6 @@ The dataset was imported into power bi as a csv file, it contain three tables wh
   - India
   - China
 
-   ![](top 3 countries.png)
  - Question 1b.The top 3 product with the highest total profit for above countries are:
      - United States:
      1. canon imageCLASS 2200 Advanced Copier
@@ -62,12 +61,29 @@ The dataset was imported into power bi as a csv file, it contain three tables wh
       1. sauder classic bookcase, metal
       2. bush classic bookcase, mobile
       3. hp copy machine, color
-
-    ![](top 3 in United States.png)
-   
+      
 - Question 2.This are the three subcategories with the highest average shipping cost in United States:
    1. copiers($165.29)
    2. machines($132.25)
    3. tables($69.95)
  
-- Question 3. Nigeria's profitability in 2014 is lower significantly when compared with other African countries though it's shipping cost is on the higher rate but it's average discount rate is higher which reduces the profit margin hence resulting in poor performance. 
+- Question 3. Nigeria's profitability in 2014 is lower significantly when compared with other African countries though it's shipping cost is on the higher rate but it's average discount rate is higher which reduces the profit margin hence resulting in poor performance.
+
+- Question 4.The least profitable product subcatrgory in Southeast Asia is **Tables** and this product should be discontinued in **Indonesia** where it has a very low profit rate hence leading to negative return of (-10.680.28)
+
+- Question 5. Lancaster city in united states is the city with the least profitability though it's count of order is twenty_seven but total quantity is significantly low when compared to other cities in united states
+
+- Question 6. Appliances is the product subcategory with the highest average profit in Australia with a total profit of (139)
+
+- Question 7. The most valuable customers and what they purchase are:
+  - Tamara Chand(canon imageclass 2200 advanced copier)(8,399.98)
+  - Raymond Buch(canon imageclass 2200 advanced copier)(6,719.98)
+  - Hunter Lopez(canon imageclass 2200 advanced copier)(5,039.99)
+  - Hunter Lopez(samsung smart phone,cordless)(1,610.28)
+  - Tom Ashbrook(canon imageclass 2200 advanced copier)(3,919.99)
+
+   ## Recommendation
+    - Global superstore should create a good online questionaire for its customer to derive their preference,needs, level of satisfaction with their services.
+    - Global superstore should contionously monitor its sales data, profitability across product as well as regions so as to make good decision concerning the store's performance
+    - Global superstore should breach the supply of least profitable product categories in various regions(where these product show negative returns) seeing that this product aren't required in this places and focus more on high profitable product to maximize sales.
+   
