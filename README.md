@@ -38,3 +38,6 @@ The dataset was imported into power bi as a csv file, it contain three tables wh
 
   ## Visualization
   ### Overview
+  ![](globalsuperstore.1.png)
+
+  ![](globalsuperstore.2.png)
