@@ -1,3 +1,3 @@
 # GLOBAL SUPERSTORES
 
-![](
+![](Introductory.PNG)
