@@ -41,3 +41,33 @@ The dataset was imported into power bi as a csv file, it contain three tables wh
   ![](globalsuperstore.1.png)
 
   ![](globalsuperstore.2.png)
+
+  ## Analysis
+- Question 1a. The three countries that generated the highest total profit for global superstore in 2014 are:
+  - United States,
+  - India
+  - China
+
+   ![](top 3 countries.png)
+ - Question 1b.The top 3 product with the highest total profit for above countries are:
+     - United States:
+     1. canon imageCLASS 2200 Advanced Copier
+     2. Hewlett Packard LaserJet 3310 Copier
+     3. GBC DocuBind TL300 Electric Binding System
+     - India:
+     1. sauder classic bookcase, traditional
+     2. cisco smart phone, with caller id
+     3. hamilton beach refrigerator,red
+     - China:
+      1. sauder classic bookcase, metal
+      2. bush classic bookcase, mobile
+      3. hp copy machine, color
+
+    ![](top 3 in United States.png)
+   
+- Question 2.This are the three subcategories with the highest average shipping cost in United States:
+   1. copiers($165.29)
+   2. machines($132.25)
+   3. tables($69.95)
+ 
+- Question 3. Nigeria's profitability in 2014 is lower significantly when compared with other African countries though it's shipping cost is on the higher rate but it's average discount rate is higher which reduces the profit margin hence resulting in poor performance. 
